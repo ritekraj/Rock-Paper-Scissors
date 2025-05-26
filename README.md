@@ -1,11 +1,8 @@
 # Rock, Paper, Scissors – Web Game
 #### Author: Bocaletto Luca
 
-[[Made with HTML5](https://img.shields.io/badge/Made%20with-HTML5-E34F26?logo=html5)](https://www.w3.org/html/)  
-[[Made with CSS3](https://img.shields.io/badge/Made%20with-CSS3-1572B6?logo=css3)](https://www.w3.org/Style/CSS/)  
-[[Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)  
-[[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[[GitHub followers](https://img.shields.io/github/followers/bocaletto-luca?label=Follow&style=social)](https://github.com/bocaletto-luca)
+[![Made with HTML5](https://img.shields.io/badge/Made%20with-HTML5-E34F26?logo=html5)](https://www.w3.org/html/) [![Made with CSS3](https://img.shields.io/badge/Made%20with-CSS3-1572B6?logo=css3)](https://www.w3.org/Style/CSS/) [![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
+
 
 **Rock, Paper, Scissors – Single Player** is a modern, responsive, web game where you play against a computer opponent that offers three difficulty levels. The match ends when either you or the computer reaches 5 wins. Featuring a sleek dark theme, dynamic score updates, and a built‑in Help modal, this game delivers a polished and engaging user experience.
 
